@@ -1,0 +1,8 @@
+﻿Pillow>=8.0.0
+pyautogui>=0.9.50
+screeninfo>=0.6.0
+easyocr>=1.6.0
+keyboard>=0.13.0
+numpy>=1.20.0
+pywin32>=300
+opencv-python>=4.5.0

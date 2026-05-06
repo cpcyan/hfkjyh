@@ -1,0 +1,14 @@
+﻿{
+  "item_name": "",
+  "price_threshold": "",
+  "purchase_number": "",
+  "start_hour": "",
+  "start_minute": "",
+  "detect_time": "0.05",
+  "move_click_delay": "0.15",
+  "restart_interval": "10",
+  "full_quantity": false,
+  "auto_restart": true,
+  "exchangeable": true,
+  "use_1k_backup": false
+}
